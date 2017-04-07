@@ -3,7 +3,7 @@
 
 The lab session will ask students to implement Pi-OS for Raspberry Pi 3B. There're 6 lab projects, 
 1) Scheduling system
-2) Interrupt, timer, and advanced scheduing
+2) Interrupt, timer, and advanced scheduling
 3) System call
 4) File system
 5) Multi-threading
