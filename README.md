@@ -6,7 +6,7 @@ The lab session will ask students to implement Pi-OS for Raspberry Pi 3B. There'
 2) Interrupt, timer, and advanced scheduling
 3) System call
 4) File system
-5) Multi-threading
+5) Processes & Multi-threading
 6) Inter-process communication
 
 Some concepts or design ideas in pi-OS are borrowed from Linux, but simplified. 
